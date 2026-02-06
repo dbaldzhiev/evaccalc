@@ -6,6 +6,8 @@
     <Title>BG-Fire-Evac</Title>
     <Description>Bulgarian Fire Safety Evacuation Calculator</Description>
     <TargetExt>.gha</TargetExt>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <LangVersion>10.0</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
